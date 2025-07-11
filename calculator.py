@@ -4,6 +4,4 @@ def cube(x):
 # در main():
 print(f"{n} cubed is {cube(n)}")
 
-Control + O
-Control + X
 
