@@ -1,4 +1,30 @@
-# ماشین حساب ساده – پروژه گیت
+# Calculator Project 🧮
+
+A simple command-line calculator written in Python.  
+This project was created as part of a Git and GitHub collaboration exercise.
+
+## 📌 Features
+
+- Calculate square of a number
+- Calculate cube of a number
+- Calculate square_times_two (square × 2)
+- Clear and clean commits using Git
+- Collaborative development using branches and pull requests
+
+## 🧑‍🤝‍🧑 Contributors
+
+This project was developed collaboratively by:
+
+- **@niyoushasm** – Created repository, added main functions
+- **@atenazm** – Added `square_times_two` via separate branch and pull request
+
+## 💻 How to Run
+
+Make sure you have Python 3 installed.  
+Then run the calculator using:
+
+```bash
+python calculator.py# ماشین حساب ساده – پروژه گیت
 
 این پروژه یک ماشین حساب ساده است که عملیات‌های پایه را انجام می‌دهد:
 
